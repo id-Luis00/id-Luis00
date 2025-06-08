@@ -1,24 +1,9 @@
-## Hi everyone 👋
-
-<!--
-**id-Luis00/id-Luis00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ciao a tutti👋
 
 Vi presento il mio Portfolio di Github, dove pubblicherò e vi aggiornerò di ogni mio progetto!
 Spero che vi piaccia quello che faccio e che, se ce ne fosse l'occasione, mi farebbe piacere collaborare in qualsiasi progetto abbiate in mente!
 
-Mi presento, sono Luis 🙋🏾
+Mi presento — sono Luis 🙋🏾
 
 Sono un grande appassionato di informatica e tutto cio che riguarda il mondo del tech. Un'altra mia grande passione è la
 musica che mi aiuta ad essere ogni giorno sempre più creativo, avendo all'attivo progetti musicali sia solisti che con una band.
@@ -29,9 +14,28 @@ Le lingue che parlo sono:
 - Spagnolo
 - Inglese
 
+#
+
+## Hi everyone👋
+
+Welcome to my GitHub Portfolio, where I’ll be sharing and updating you on all my projects!
+I hope you enjoy what I do, and if the opportunity ever arises, I’d love to collaborate on any project you have in mind!
+
+Let me introduce myself — I'm Luis 🙋🏾
+
+I'm deeply passionate about computer science and everything related to the tech world. Another big passion of mine is music,
+which helps me stay creative every day. I’m actively involved in musical projects, both as a solo artist and as part of a band.
+I was born and raised in Rome, but I have Peruvian roots.
+
+The languages I speak are:
+
+- Italian
+- Spanish
+- English
+
 ---
 
-### Linguaggi che uso
+### Languages i use:
 
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
