@@ -22,10 +22,12 @@ Mi presento, sono Luis 🙋🏾
 
 Sono un grande appassionato di informatica e tutto cio che riguarda il mondo del tech. Un'altra mia grande passione è la
 musica che mi aiuta ad essere ogni giorno sempre più creativo, avendo all'attivo progetti musicali sia solisti che con una band.
-Sono nato e cresciuto a Roma ma ho origini peruviane, che mi ha dato modo di imparare la lingua spagnola.
+Sono nato e cresciuto a Roma ma ho origini peruviane.
 
-P.s. Parlo bene anche l'inglese
-
+Le lingue che parlo sono:
+- Italiano
+- Spagnolo
+- Inglese
 
 ## Linguaggi che uso
 
