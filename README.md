@@ -14,7 +14,7 @@ Le lingue che parlo sono:
 - Spagnolo
 - Inglese
 
-#
+
 
 ## Hi everyone👋
 
