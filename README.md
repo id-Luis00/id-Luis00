@@ -37,7 +37,7 @@ Qui i progetti alla quale sto lavorando:
 
 #
 
-## Questi sono i miei contatti, per qualsiasi domanda o collaborazione non esitate a scrivermi!
+#### Questi sono i miei contatti, per qualsiasi domanda o collaborazione non esitate a scrivermi!
 
 - Linkedin:
 - E-mail:
