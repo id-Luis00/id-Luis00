@@ -25,7 +25,6 @@ Sono nato e cresciuto a Roma ma ho origini peruviane, dove ho avuto modo di impa
 
 P.s. Parlo bene anche l'inglese
 
-#
 
 ## Linguaggi che uso
 
