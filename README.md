@@ -19,6 +19,7 @@ Vi presento il mio Portfolio di Github, dove pubblicherò e vi aggiornerò di og
 Spero che vi piaccia quello che faccio e che, se ce ne fosse l'occasione, mi farebbe piacere collaborare in qualsiasi progetto abbiate in mente!
 
 Mi presento, sono Luis 🙋🏾
+
 Sono un grande appassionato di informatica e tutto cio che riguarda il mondo del tech. Un'altra mia grande passione è la
 musica che mi aiuta ad essere ogni giorno sempre più creativo, avendo all'attivo progetti musicali sia solisti che con una band.
 Sono nato e cresciuto a Roma ma ho origini peruviane, dove ho avuto modo di imparare la lingua spagnola nonché l'italiano.
