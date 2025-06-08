@@ -64,7 +64,7 @@ The languages I speak are:
 
 #### Questi sono i miei contatti, per qualsiasi domanda o collaborazione non esitate a scrivermi!
 
-- Linkedin:
+- "[Linkedin][https://www.linkedin.com/in/edinson-luis-quiroz-mendoza-561a83308/]"
 - E-mail:
 - Github
 
