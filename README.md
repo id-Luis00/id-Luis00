@@ -50,10 +50,10 @@ Le lingue che parlo sono:
 
 #
 
-Qui i miei progetti attuali:
+### Projects:
 - Music-Hall
 
-Qui i progetti alla quale sto lavorando:
+### WIP Projects:
 - Portfolio
 
 #
