@@ -31,6 +31,8 @@ Le lingue che parlo sono:
 
 ## Linguaggi che uso
 
+            <i class="devicon-java-plain"></i>
+          
 
 Qui i miei progetti attuali:
 - Music-Hall
