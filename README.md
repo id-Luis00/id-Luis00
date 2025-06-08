@@ -29,7 +29,6 @@ P.s. Parlo bene anche l'inglese
 
 ## Linguaggi che ho uso
 <!-- aggiungi immagini -->
-#
 
 Qui i miei progetti attuali:
 - Music-Hall
